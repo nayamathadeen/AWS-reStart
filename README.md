@@ -1,7 +1,5 @@
 # AWS-reStart
 From Zero to Cloud Hero: AWS re/Start projects repository
-# AWS re/Start
-## From Zero to Cloud Hero: AWS re/Start Projects Repository
 
 ### AWS re/Start Projects
 Welcome to my little corner of the cloud! ☁️ Here, I’m documenting my journey through the **AWS re/Start program**, experimenting with projects, labs, and hands-on exercises. My main focus? **Merging technology with medicine**—finding clever ways for cloud and code to improve healthcare and make life a bit smarter. Expect a mix of serious learning, quirky experiments, and the occasional “oops, did that really work?” moment.
