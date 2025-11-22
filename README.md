@@ -8,18 +8,17 @@ Here, I’m documenting my journey through the **AWS re/Start program**, experim
 
 ---
 
-### 🛠 Skills & Tools
+### Skills & Tools
 - **Cloud & AWS:** EC2, S3, Lambda, DynamoDB, CloudFormation  
 - **Programming & Scripting:** Python, Bash, JavaScript (Node.js)  
 - **DevOps & Automation:** Git, GitHub, CI/CD basics  
-- **Medical Tech Focus:** Exploring cloud-based solutions for healthcare data, analytics, and automation  
+- **Medical Tech Focus:** Exploring cloud-based solutions for healthcare data, analytics and automation  
 
 ---
 
-### 📂 Projects & Labs
+### Projects & Labs
 Each folder in this repo corresponds to a hands-on project or lab completed during the AWS re/Start program. Projects range from small experiments to full-fledged exercises demonstrating cloud functionality:  
 
 - **Lab Exercises:** Step-by-step learning of AWS services  
 - **Mini Projects:** Applying concepts to real-world problems  
-- **Medical-Tech Experiments:** Cloud-powered ideas bridging healthcare and technology
 
