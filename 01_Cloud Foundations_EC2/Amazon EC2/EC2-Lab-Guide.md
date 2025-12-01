@@ -203,7 +203,7 @@
  - `2/2 checks passed` means AWS has verified the basic health of the instance and its underlying system.
  
  
- ![Step 2.8 – Instance running and status checks passed](assets/Step-8-launching-an-EC2.png)
+ ![Step 2.8 – Instance running and status checks passed](assets/Step-8-Launching-an-EC2.png)
  
  ---
  
@@ -295,7 +295,7 @@
  
  _Image placeholder:_
  
- ![Step 4.2 – HTTP inbound rule on security group](assets/Task-3-inbound-rules.png)
+ ![Step 4.2 – HTTP inbound rule on security group](assets/Task-3-Inbound-rules.png)
  ![Step 4.2 – HTTP inbound rule on security group](assets/Task-3-Inbound-rules-2.png)
  ---
  
@@ -351,7 +351,7 @@
  - `t3.small` has more memory than `t3.micro`.
  - This simulates scaling up your server for a heavier workload.
  
- ![Step 5.2 – Change instance type to t3.small](assets/Task-4-changing-instance-type.png)
+ ![Step 5.2 – Change instance type to t3.small](assets/Task-4-Changing-instance-type.png)
  
  ---
  
@@ -367,7 +367,7 @@
  - Your root disk now has more space.
  - This is useful when you need more storage for logs, software, or data.
  
- ![Step 5.3 – Modify EBS volume size](assets/Task-4-resize-EBS-Volume.png)
+ ![Step 5.3 – Modify EBS volume size](assets/Task-4-Resize-EB-Volume.png)
  
  ---
  
@@ -404,7 +404,7 @@
  - Termination protection is **enabled**.
  - AWS blocks termination to protect you from deleting important servers by mistake.
  
- ![Step 6.1 – Failed termination due to protection](assets/Task-4-stoping-instance.png)
+ ![Step 6.1 – Failed termination due to protection](assets/Task-4-Stopping-instance.png)
  
  ---
  
@@ -437,7 +437,7 @@
  - In real environments, this step is important to **stop paying** for unnecessary instances.
  
  
- ![Step 6.3 – Instance terminated](assets/Task-5-Sucessful-tested-termination-protection.png)
+ ![Step 6.3 – Instance terminated](assets/Task-5-Successful-tested-termination-protection.png)
  
  ---
  
