@@ -1,4 +1,4 @@
-# 🖥️ Lab Summary: Introduction to Amazon EC2
+# Lab Summary: Introduction to Amazon EC2
 
 This lab demonstrated how to deploy, secure, monitor, scale, and remove a cloud-based virtual server using Amazon EC2. It showed how EC2 provides flexible, pay-as-you-go computing resources that can be created within minutes and adjusted as requirements change.
 
@@ -83,7 +83,7 @@ To simulate scaling:
 
 ---
 
-# 🏁 Final Summary
+# Final Summary
 
 This lab gave practical exposure to:
 - deploying an EC2 instance  
@@ -102,7 +102,7 @@ It highlights the flexibility of EC2:
 
 ---
 
-# 🏗️ Architecture Diagram
+# Architecture Diagram
 
                            ┌──────────────────────────┐
                            │        Internet          │
