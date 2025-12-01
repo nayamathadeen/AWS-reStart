@@ -181,7 +181,7 @@
  ![Step 2.7 – Advanced details and user data](assets/Step-7-Termination-protection.png)
 
  ![Step 2.7 – Advanced details and user data](assets/Step-7-Script.png)
- 
+
  ---
  
  ### 2.8 Launch the Instance
