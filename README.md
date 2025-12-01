@@ -1,24 +1,141 @@
 # AWS-reStart
 From Zero to Cloud Hero: AWS re/Start projects repository
-
-### AWS re/Start Projects
-Welcome to my little corner of the cloud! ☁️ 
-
-Here, I’m documenting my journey through the **AWS re/Start program**, experimenting with projects, labs and hands-on exercises. My main focus? **Merging technology with medicine** to find clever ways for cloud and code to improve healthcare and make life a bit smarter. Expect a mix of serious learning, quirky experiments and the occasional “oops, did that really work?” moment.
+Welcome to my little corner of the cloud! ☁️
 
 ---
 
-### Skills & Tools
-- **Cloud & AWS:** EC2, S3, Lambda, DynamoDB, CloudFormation  
-- **Programming & Scripting:** Python, Bash, JavaScript (Node.js)  
-- **DevOps & Automation:** Git, GitHub, CI/CD basics  
-- **Medical Tech Focus:** Exploring cloud-based solutions for healthcare data, analytics and automation  
+# ███ AWS re/Start Journey – Nayana Mathadeen ███
+
+        ┌──────────────────────────────────┐
+        │      AWS CLOUD DEVELOPMENT        │
+        │   Journey, Learning & Portfolio   │
+        │               2025                │
+        └──────────────────────────────────┘
+
+> _Minimal. Focused. Professional._  
+> Clear record of growth throughout the AWS re/Start programme.
 
 ---
 
-### Projects & Labs
-Each folder in this repo corresponds to a hands-on project or lab completed during the AWS re/Start program. Projects range from small experiments to full-fledged exercises demonstrating cloud functionality:  
+# ░░░ INTRODUCTION ░░░
 
-- **Lab Exercises:** Step-by-step learning of AWS services  
-- **Mini Projects:** Applying concepts to real-world problems  
+>>> Loading profile...
+  
+- Focused on cloud fundamentals and infrastructure design  
+- Interested in secure, scalable, efficient technical solutions  
+- Currently enrolled in AWS re/Start to build solid cloud foundations 
+- Exploring cloud-based solutions for healthcare data, analytics and automation  
 
+---
+
+# ░░░ ABOUT THE PROGRAMME ░░░
+
+>>> Initializing AWS Foundations...
+
+- Structured, hands-on enablement to build cloud career readiness  
+- Core curriculum covering:
+  - Cloud architecture basics  
+  - Infrastructure security  
+  - AWS administration  
+  - Practical troubleshooting  
+- Encourages certification preparation and professional discipline  
+
+---
+
+# ░░░ CORE SKILLS & TOOLING ░░░
+
+>>> Expanding technical capability...
+
+**Cloud Architecture**
+- Regions, Availability Zones, fault tolerance  
+- Shared Responsibility Model, compliance awareness  
+
+**AWS Services**
+- IAM, EC2, S3, RDS  
+- CloudWatch, CloudTrail monitoring  
+- Serverless introduction (Lambda)  
+
+**Networking**
+- VPC design principles  
+- Subnets, routing, gateways  
+- Security Groups, NACLs  
+
+**Linux Competency**
+- File structure, navigation, permissions  
+- Command-line proficiency  
+- Bash scripting fundamentals  
+
+**DevOps Concepts**
+- Version control: Git & GitHub  
+- Continuous delivery pipelines (conceptual)  
+- Infrastructure automation mindset  
+
+---
+
+# ░░░ PRACTICAL EXPERIENCE ░░░
+
+>>> Executing hands-on tasks...
+
+- Designing segmented network environments using VPC and subnets  
+- Deploying and securing EC2 instances  
+- Configuring least-privilege access with IAM  
+- Controlling storage, policies, and encryption on S3  
+- Monitoring logs and metrics through CloudWatch  
+- Diagnosing access, routing, and permissions issues  
+
+---
+
+# ░░░ PROFESSIONAL GROWTH ░░░
+
+>>> System learning in progress...
+
+- Increased confidence working with cloud platforms  
+- Stronger analytical and troubleshooting reasoning  
+- Improved communication within technical teams  
+- Gained exposure to secure design practices  
+- Developed disciplined habits for continuous learning  
+
+---
+
+# ░░░ CONTINUING DEVELOPMENT ░░░
+
+>>> Roadmap compiling...
+
+- Prepare and write AWS Cloud Practitioner  
+- Build portfolio-grade cloud deployments  
+- Advance into DevOps, CI/CD, Infrastructure-as-Code  
+- Gain fluency in containerisation and modern cloud workflows  
+
+---
+
+# ░░░ PROFESSIONAL OBJECTIVE ░░░
+
+>>> Vision alignment...
+
+To build solutions that are:
+- Secure  
+- Efficient  
+- Scalable  
+- Purpose-driven     
+
+To apply global cloud principles to real-world needs, systems reliability, and growth.
+
+---
+
+# ░░░ CONNECT ░░░
+
+>>> Channel open...
+
+If you’d like to connect on cloud learning, research, or opportunities:
+
+- **Email:** nayana.mathadeen@gmail.com 
+- **LinkedIn:** www.linkedin.com/in/nayana-mathadeen-6a57a8248 
+
+---
+
+        ┌──────────────────────────────────┐
+        │       END OF DOCUMENT             │
+        │   Continuous Learning in Motion   │
+        └──────────────────────────────────┘
+
+> *Minimal design. Clear profile. Professional presence.*
