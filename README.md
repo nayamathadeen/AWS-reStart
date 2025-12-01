@@ -1,19 +1,11 @@
 # AWS-reStart
 From Zero to Cloud Hero: AWS re/Start projects repository
+---
 Welcome to my little corner of the cloud! ☁️
 
 ---
 
 # ███ AWS re/Start Journey – Nayana Mathadeen ███
-
-        ┌──────────────────────────────────┐
-        │      AWS CLOUD DEVELOPMENT        │
-        │   Journey, Learning & Portfolio   │
-        │               2025                │
-        └──────────────────────────────────┘
-
-> _Minimal. Focused. Professional._  
-> Clear record of growth throughout the AWS re/Start programme.
 
 ---
 
@@ -132,10 +124,3 @@ If you’d like to connect on cloud learning, research, or opportunities:
 - **LinkedIn:** www.linkedin.com/in/nayana-mathadeen-6a57a8248 
 
 ---
-
-        ┌──────────────────────────────────┐
-        │       END OF DOCUMENT             │
-        │   Continuous Learning in Motion   │
-        └──────────────────────────────────┘
-
-> *Minimal design. Clear profile. Professional presence.*
