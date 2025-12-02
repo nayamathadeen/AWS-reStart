@@ -207,7 +207,7 @@ The Lambda execution role required permissions for:
 - `logs:CreateLogStream`
 - `logs:PutLogEvents`
 
-![IAM Configuration](IAM-Configuration.png)
+![IAM Configuration](./assets/IAM-Configuration.png)
 
 These permissions allowed Lambda to store data, send emails, and generate logs.
 
