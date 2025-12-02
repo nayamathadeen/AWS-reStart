@@ -441,23 +441,6 @@
  
  ---
  
- ## 8. Ending the Lab
- 
- Back in your lab platform:
- 
- 1. Click **End Lab**.
- 2. Confirm with **Yes**.
- 
- The system will:
- - Delete the temporary AWS account and resources.
- - Show a message like `Ended AWS Lab Successfully`.
- 
- Why this step matters:
- - It ensures all resources from the temporary environment are fully removed.
- - You won’t be billed or leave anything running by mistake.
- 
- ---
- 
  ## * What You Learned in This Lab *
  
  By following these steps, you learned how to:
