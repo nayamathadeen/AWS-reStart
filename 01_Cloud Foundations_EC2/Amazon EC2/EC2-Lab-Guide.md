@@ -441,9 +441,9 @@
  
  ---
  
- ## * What You Learned in This Lab *
+ ## * What was Learned in This Lab *
  
- By following these steps, you learned how to:
+ By following these steps, I learned how to:
  
  - Launch an EC2 instance with a custom name and configuration.
  - Understand what AMIs, instance types, VPCs, and Security Groups are.
