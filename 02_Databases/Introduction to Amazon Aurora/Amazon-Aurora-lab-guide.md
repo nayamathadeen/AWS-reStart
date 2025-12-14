@@ -87,7 +87,7 @@ You are connected to the MariaDB/MySQL prompt.
 
 ---
 
-Task 4: Create Tables and Query Records
+## Task 4: Create Tables and Query Records
 
 1. List databases:
 2. SHOW DATABASES;
