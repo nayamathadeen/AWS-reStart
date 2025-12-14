@@ -17,17 +17,7 @@ By the end of this lab, you will be able to:
 
 ---
 
-
-## Task 1: Access the AWS Management Console
-
-1. Choose **Start Lab** in the lab environment.
-2. Wait for the lab status indicator to turn green.
-3. Open the **AWS Management Console**.
-4. Do not change the AWS Region unless instructed.
-
----
-
-## Task 2: Create a DynamoDB Table
+## Task 1: Create a DynamoDB Table
 
 1. From the AWS Management Console, open **Services**.
 2. Under **Database**, choose **DynamoDB**.
@@ -45,7 +35,7 @@ The **Music** table is successfully created and active.
 
 ---
 
-## Task 3: Add Items to the Table
+## Task 2: Add Items to the Table
 
 ### Create the First Item
 1. Select the **Music** table.
@@ -86,7 +76,7 @@ Three items with different attributes are stored in the DynamoDB table.
 
 ---
 
-## Task 4: Modify an Existing Item
+## Task 3: Modify an Existing Item
 
 1. In the DynamoDB console, choose **Explore items**.
 2. Select the **Music** table.
@@ -101,7 +91,7 @@ The selected item is updated successfully.
 
 ---
 
-## Task 5: Query the Table
+## Task 4: Query the Table
 
 1. Expand **Scan/Query items**.
 2. Select **Query**.
@@ -115,7 +105,7 @@ The matching item is returned immediately.
 
 ---
 
-## Task 6: Scan the Table
+## Task 5: Scan the Table
 
 1. Switch from **Query** to **Scan**.
 2. Expand **Filters**.
@@ -130,7 +120,7 @@ Only the song released in 1971 is displayed.
 
 ---
 
-## Task 7: Delete the DynamoDB Table
+## Task 6: Delete the DynamoDB Table
 
 1. In the DynamoDB dashboard, select the **Music** table.
 2. Choose **Actions → Delete table**.
