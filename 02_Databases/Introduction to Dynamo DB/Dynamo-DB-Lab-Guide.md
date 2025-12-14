@@ -151,7 +151,7 @@ The DynamoDB table and all stored data are permanently removed.
 
 ---
 
-### * *What was Learned in This Lab* *
+### ** * What Was Learned In This Lab * **
 
 By following these steps, I learned how to:
 
