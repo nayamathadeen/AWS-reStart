@@ -15,18 +15,6 @@ By completing this lab, you will be able to:
 
 ---
 
-## Estimated Duration
-Approximately **40 minutes**
-
----
-
-## Prerequisites
-- Basic Linux command-line knowledge
-- Basic understanding of SQL
-- Access to the AWS lab environment
-
----
-
 ## Task 1: Create an Aurora Database Instance
 
 1. Open the AWS Management Console.
