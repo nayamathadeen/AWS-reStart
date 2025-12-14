@@ -30,9 +30,12 @@ By the end of this lab, you will be able to:
 6. Choose **Create table**.
 7. Wait until the table status changes to **Active**.
 
+![Task 1- Table contents](assets/Task-1-Table-Contents.png)
+
 **Expected Result:**  
 The **Music** table is successfully created and active.
 
+![Task 1- Created table](assets/Task-1-Successfully-Created-Table.png)
 ---
 
 ## Task 2: Add Items to the Table
@@ -47,6 +50,7 @@ The **Music** table is successfully created and active.
    - Year (Number): 1973
 4. Choose **Create item**.
 
+![Task 2- Added items to table ](assets/Task-2-Added-Items-To-Table.png)
 ---
 
 ### Create the Second Item
@@ -59,6 +63,7 @@ Add another item with the following attributes:
 
 Choose **Create item**.
 
+![Task 2- Created 2nd Item](assets/Task-2-Created-2nd-Item.png)
 ---
 
 ### Create the Third Item
@@ -70,6 +75,8 @@ Add a third item with the following attributes:
 - LengthSeconds (Number): 219
 
 Choose **Create item**.
+
+![Task 2- Created 3rd Item](assets/Task-2-Created-3rd-Item.png)
 
 **Expected Result:**  
 Three items with different attributes are stored in the DynamoDB table.
@@ -89,6 +96,8 @@ Three items with different attributes are stored in the DynamoDB table.
 **Expected Result:**  
 The selected item is updated successfully.
 
+![Task 3- Modifying an item](assets/Task-3-Modifying-an-Item.png)
+
 ---
 
 ## Task 4: Query the Table
@@ -100,8 +109,12 @@ The selected item is updated successfully.
    - Song (Sort key): Gangnam Style
 4. Choose **Run**.
 
+![Task 4- Quary of Table](assets/Task-4-Query-the-table.png)
+
 **Expected Result:**  
 The matching item is returned immediately.
+
+![Task 4- Results](assets/Task-4-Results.png)
 
 ---
 
@@ -118,6 +131,8 @@ The matching item is returned immediately.
 **Expected Result:**  
 Only the song released in 1971 is displayed.
 
+![Task 5- Scaing the table](assets/Task-5-Scan-the-table.png)
+
 ---
 
 ## Task 6: Delete the DynamoDB Table
@@ -127,8 +142,12 @@ Only the song released in 1971 is displayed.
 3. When prompted, type `delete` to confirm.
 4. Choose **Delete table**.
 
+![Task 6- Deleting the table](assets/Task-6-Deleting-the-Table.png)
+
 **Expected Result:**  
 The DynamoDB table and all stored data are permanently removed.
+
+![Task 6- Deleted table](assets/Task-6-Deleted-Table.png)
 
 ---
 
