@@ -1,4 +1,4 @@
-  Lauching an EC2 with Amazon EC2 – Step-by-Step Guide 
+## Lauching an EC2 with Amazon EC2 – Step-by-Step Guide 
  
  ---
  

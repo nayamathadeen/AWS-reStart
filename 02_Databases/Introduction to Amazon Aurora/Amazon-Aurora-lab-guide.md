@@ -94,7 +94,7 @@ Two records (Australia and Thailand) are returned.
 
 ---
 
-### *** What was Learned In this Lab ***
+### * What was Learned In this Lab *
 
 By following these steps, I learned how to:
 
