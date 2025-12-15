@@ -32,11 +32,19 @@ By completing this lab, I was able to:
 6. Open the **Networking** tab and record:
    - Public IPv4 address
    - Private IPv4 address
+
+![Task 1 Created Instance](assets/Task-1-Created-Instance.png)
+
 7. Stop the instance and observe the IP addresses.
+
+![Task 1 Stopping Instance](assets/Task-1-Stopped-Instance.png)
+
 8. Start the instance again and compare the IP addresses.
 
 **Expected Result:**  
 The public IP address changes, while the private IP remains the same.
+
+![Task 1 Starting Instance Again](assets/Task-1-Starting-Instance-Again.png)
 
 ---
 
@@ -51,12 +59,19 @@ The public IP address changes, while the private IP remains the same.
    - Resource type: **Instance**
    - Instance: `test instance`
 7. Confirm the association.
+
+![Task 2 Allocated Elastic IP Address](assets/Task-2-Allocated-Elastic-IP-Address.png)
+
 8. Stop and start the instance again.
+
+![Task 2 Stopping Instance](assets/Task-2-Stopping-Instance.png)
+
 9. Recheck the public IP address.
 
 **Expected Result:**  
 The public IP address remains the same after restart.
 
+![Task 2 Starting Instance Again](assets/Task-2-Starting-Instance.png)
 ---
 
 ## Task 3: Send the Response to the Customer
