@@ -32,19 +32,12 @@ By completing this lab, you will be able to:
 **Expected Result:**  
 Instance B has a public IP address, while Instance A does not.
 
+![Task 1 Instance A](assets/Task-1-Instance-A.png)
+![Task 1 Instance B](assets/Task-2-Instance-B.png)
 ---
 
 ## Task 2: Connect to EC2 Using SSH
 
-### macOS / Linux Users
-1. Download the `labsuser.pem` file.
-2. Change permissions:
-   ```bash
-   chmod 400 labsuser.pem
-3. Attempt SSH connection:
-ssh -i labsuser.pem ec2-user@<ip-address>
-
----
 
 ## Windows Users
 
@@ -58,7 +51,12 @@ ssh -i labsuser.pem ec2-user@<ip-address>
 ## Expected Result
 
 - SSH connection succeeds for **Instance B**
+
+![Task 1 Instance B succeeded](assets/Task-2-Instance-B-Succeeded.png)
+
 - SSH connection fails for **Instance A**
+
+![Task 1 Instance A failed](assets/Task-2-Instance-A-Failed.png)
 
 ---
 
