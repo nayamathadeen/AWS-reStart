@@ -96,7 +96,7 @@ The root cause of the issue is **IP addressing**, not the EC2 instance configura
 
 ---
 
-### ** * What Was Learned in This Lab* **
+### * What Was Learned in This Lab* 
 
 By following these steps, I learned how to:
 
