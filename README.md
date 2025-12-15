@@ -1,15 +1,14 @@
-# AWS-reStart
-From Zero to Cloud Hero: AWS re/Start projects repository
+## From Zero to Cloud Hero: AWS re/Start projects repository
 ---
 Welcome to my little corner of the cloud! ☁️
 
 ---
 
-# ███ AWS re/Start Journey – Nayana Mathadeen ███
+# AWS re/Start Journey – Nayana Mathadeen
 
 ---
 
-# ░░░ INTRODUCTION ░░░
+# INTRODUCTION 
 
 >>> Loading profile...
   
@@ -20,7 +19,7 @@ Welcome to my little corner of the cloud! ☁️
 
 ---
 
-# ░░░ ABOUT THE PROGRAMME ░░░
+# ABOUT THE PROGRAMME 
 
 >>> Initializing AWS Foundations...
 
@@ -34,7 +33,7 @@ Welcome to my little corner of the cloud! ☁️
 
 ---
 
-# ░░░ CORE SKILLS & TOOLING ░░░
+# CORE SKILLS & TOOLING 
 
 >>> Expanding technical capability...
 
@@ -64,7 +63,7 @@ Welcome to my little corner of the cloud! ☁️
 
 ---
 
-# ░░░ PRACTICAL EXPERIENCE ░░░
+# PRACTICAL EXPERIENCE 
 
 >>> Executing hands-on tasks...
 
@@ -77,7 +76,7 @@ Welcome to my little corner of the cloud! ☁️
 
 ---
 
-# ░░░ PROFESSIONAL GROWTH ░░░
+# PROFESSIONAL GROWTH
 
 >>> System learning in progress...
 
@@ -89,7 +88,7 @@ Welcome to my little corner of the cloud! ☁️
 
 ---
 
-# ░░░ CONTINUING DEVELOPMENT ░░░
+# CONTINUING DEVELOPMENT 
 
 >>> Roadmap compiling...
 
@@ -100,7 +99,7 @@ Welcome to my little corner of the cloud! ☁️
 
 ---
 
-# ░░░ PROFESSIONAL OBJECTIVE ░░░
+# PROFESSIONAL OBJECTIVE 
 
 >>> Vision alignment...
 
@@ -114,7 +113,7 @@ To apply global cloud principles to real-world needs, systems reliability, and g
 
 ---
 
-# ░░░ CONNECT ░░░
+# CONNECT 
 
 >>> Channel open...
 
