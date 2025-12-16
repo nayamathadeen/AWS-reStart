@@ -32,7 +32,7 @@ I completed hands-on quests that simulated real cloud tasks rather than just the
 
 ## Introduction to AWS Identity and Access Management (IAM)
 
-![Introduction to IAM](assets/Introduction-to-IAM.pdf)
+![Introduction to IAM](assets/Introduction-to-IAM.png)
 
 ### Overview
 This course focused on AWS Identity and Access Management (IAM), which is the foundation of security and access control in AWS environments.
@@ -53,7 +53,7 @@ This course focused on AWS Identity and Access Management (IAM), which is the fo
 
 ## AWS SimuLearn: Core Security Concepts
 
-![Security](assets/Skills-Builder-Security.pdf)
+![Security](assets/Security.png)
 
 ### Overview
 This simulation-based course introduced AWS security concepts through practical, scenario-driven learning.
@@ -73,7 +73,7 @@ This simulation-based course introduced AWS security concepts through practical,
 
 ## AWS SimuLearn: Networking Concepts
 
-![Networking](assets/Skills-Builder-Networking.pdf)
+![Networking](assets/Networking.png)
 
 ### Overview
 This course focused on networking fundamentals within AWS and how cloud networking differs from traditional on-premises networking.
@@ -93,7 +93,7 @@ This course focused on networking fundamentals within AWS and how cloud networki
 
 ## AWS SimuLearn: Databases in Practice
 
-![Databases](assets/Skills-Builder-Databases.pdf)
+![Databases](assets/Databases.png)
 
 ### Overview
 This course explored database services in AWS and how to choose the right database solution based on workload requirements.
@@ -113,7 +113,7 @@ This course explored database services in AWS and how to choose the right databa
 
 ## AWS SimuLearn: File Systems in the Cloud
 
-![Storage](assets/Skills-Builder-Storage.pdf)
+![Storage](assets/Storage.png)
 
 ### Overview
 This course focused on cloud storage and file systems, highlighting how AWS storage solutions support scalability, durability, and performance.
