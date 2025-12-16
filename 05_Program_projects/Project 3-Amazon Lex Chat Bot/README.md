@@ -1,4 +1,4 @@
-# AWS Lex Chatbot Project (Project 3)
+# AWS Lex Chatbot Project 
 
 ## Project Overview
 
