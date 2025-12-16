@@ -36,3 +36,47 @@ Through this project, I gained experience in:
 - Understanding how decoupled architectures improve resilience and scalability
 
 This project strengthened my ability to design, deploy, troubleshoot, and document cloud solutions, reinforcing foundational skills required for entry-level cloud and DevOps roles.
+
+---
+
+📁 Project 3: Interactive Chatbot & Quiz Development Using Amazon Lex
+
+## Introduction
+This project focused on designing and implementing an interactive chatbot using **Amazon Lex**, with the objective of understanding how conversational interfaces are built and managed within the AWS ecosystem. The challenge was not only to create a functioning chatbot, but to design clear conversational flows that respond correctly to user input without relying on backend code or external services.
+
+Rather than treating this as a simple chatbot exercise, I approached the project as a real-world conversational design problem—balancing user experience, logical flow, and platform limitations while working within Amazon Lex V2’s intent-based model.
+
+---
+
+## Project Summary
+I designed and built a Lex chatbot capable of responding to user queries and delivering a structured knowledge-check quiz. The solution demonstrates how intent-driven logic can be used to simulate branching conversations and interactive learning experiences without additional compute services such as AWS Lambda.
+
+Key outcomes of this project include:
+
+- Creation and configuration of an Amazon Lex V2 chatbot using intents and utterances  
+- Implementation of opening responses to control all chatbot interactions  
+- Design of a quiz flow with clear correct and incorrect response handling  
+- Manual branching logic using multiple intents to simulate decision-based conversations  
+- Troubleshooting and resolving common Lex challenges such as intent ambiguity and conversation loops  
+
+This project highlights my ability to work with managed AI services, adapt design approaches to platform constraints, and build reliable, user-focused conversational solutions aligned with AWS best practices.
+
+---
+
+## Key Skills and Concepts Demonstrated
+Through this project, I strengthened my understanding of:
+
+- Conversational AI and chatbot design principles  
+- Amazon Lex V2 architecture and intent-based interaction flow  
+- Natural language input handling and intent matching  
+- Designing branching logic without state management or backend code  
+- Debugging platform-specific issues such as infinite loops and misrouted intents  
+- Communicating technical design decisions clearly and effectively  
+
+---
+
+## Challenges and Learning Outcomes
+One of the main challenges was adapting the project requirements to the actual behaviour of Amazon Lex V2, particularly understanding how responses are handled through opening and closing responses rather than traditional response blocks. Designing a quiz without built-in state management required careful intent separation and precise utterance design to avoid loops and unintended intent matches.
+
+By overcoming these challenges, I developed a deeper understanding of how managed AI services operate in practice and how to design solutions that are both functional and explainable—an essential skill for real-world cloud and DevOps environments.
+
