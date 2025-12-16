@@ -256,12 +256,13 @@ All components were tested successfully and worked as expected.
     | (Booking Processor)  |          
     +----+-----------+-----+          
          |           |                
-         v           v                
-+------------------+    +------------------+
-|    DynamoDB      |    |       SES        |
-| (Booking Storage)|    | (Verified Emails |
-|                  |    |   Only – Sandbox)|
-+------------------+    +------------------+
+         v           v   
+         
+    +------------------+    
+    |    DynamoDB      |    
+    | (Booking Storage)|   
+    |                  |    
+    +------------------+    
 
 ---
 
