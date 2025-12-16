@@ -257,11 +257,11 @@ All components were tested successfully and worked as expected.
     +----+-----------+-----+          
          |           |                
          v           v                
-+------------------+   +------------------+
-|    DynamoDB      |   |       SES        |
-| (Booking Storage)|   | (Verified Emails |
-|                  |   |   Only – Sandbox)|
-+------------------+   +------------------+
++------------------+    +------------------+
+|    DynamoDB      |    |       SES        |
+| (Booking Storage)|    | (Verified Emails |
+|                  |    |   Only – Sandbox)|
++------------------+    +------------------+
 
 ---
 
