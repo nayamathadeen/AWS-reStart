@@ -39,7 +39,7 @@ This project strengthened my ability to design, deploy, troubleshoot, and docume
 
 ---
 
-📁 Project 3: Interactive Chatbot & Quiz Development Using Amazon Lex
+### 📁 Project 3: Interactive Chatbot & Quiz Development Using Amazon Lex
 
 ## Introduction
 This project focused on designing and implementing an interactive chatbot using **Amazon Lex**, with the objective of understanding how conversational interfaces are built and managed within the AWS ecosystem. The challenge was not only to create a functioning chatbot, but to design clear conversational flows that respond correctly to user input without relying on backend code or external services.
