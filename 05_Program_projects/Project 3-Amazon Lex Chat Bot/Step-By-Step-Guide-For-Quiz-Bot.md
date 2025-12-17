@@ -1,4 +1,4 @@
-# Step-by-Step Guide: How I Built the Amazon Lex Quiz Chatbot
+# Step-by-Step Guide: How I Built the Amazon Lex Quiz Chatbot (Part 2)
 
 ## Step 1: Access Amazon Lex
 - Logged in to the AWS Management Console
