@@ -6,6 +6,7 @@
 - Enter your AWS account credentials
 - Once logged in, you will see the AWS Management Console dashboard
 
+![AWS Management Console](assets/Step-1-AWS-Console.png)
 ---
 
 ## Step 2: Select a Supported AWS Region
@@ -13,7 +14,7 @@
 - Choose a region that supports Amazon Lex, such as:
   - **EU (Ireland)**
   - **US East (N. Virginia)**
-  
+
 ---
 
 ## Step 3: Open Amazon Lex
@@ -22,6 +23,8 @@
 - Select **Amazon Lex** from the search results
 
 You are now in the Amazon Lex V2 console.
+
+![Amazon Lex](assets/Step-3-Amazon-Lex.png)
 
 ---
 
@@ -33,7 +36,7 @@ You are now in the Amazon Lex V2 console.
 ---
 
 ## Step 5: Configure Bot Settings
-- Enter a **Bot name** relevant to your project
+- Enter a **Bot name** 
 - Set the **Language** to **English (ZA)**
 - Leave all **advanced configuration options** set to **None**
 - Click **Create** to create the bot
@@ -46,6 +49,8 @@ You are now in the Amazon Lex V2 console.
 - Select **Create empty intent**
 - Name the intent (for example, `S3Info`)
 - Click **Add**
+
+![Creating the Intent](assets/Step-6-Naming.png)
 
 ---
 
@@ -60,16 +65,20 @@ Tell me about Amazon S3
 
 Utterances define how users interact with the bot.
 
+![Sample Utterance](assets/Step-7-Sample-Utterance.png)
+
 ---
 
 ## Step 8: Add the Bot Response
-- Scroll down to the **Opening response** section
+- Scroll down to the **Initial response** section
 - Click **Add response**
 - Enter the response text:
 
 Amazon S3 is a cloud storage service that lets you store and retrieve data from anywhere.
 
 - Leave the **Closing response** empty
+
+![Initial response](assets/Step-8-Initial-Response.png)
 
 ---
 
@@ -87,6 +96,8 @@ Amazon S3 is a cloud storage service that lets you store and retrieve data from 
 What is Amazon S3?
 
 - Confirm that the bot responds correctly
+
+![Testing the bot](assets/Step-10-Testing.png)
 
 ---
 
